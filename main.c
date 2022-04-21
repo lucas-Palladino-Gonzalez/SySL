@@ -1,3 +1,5 @@
+// Lucas Palladino Gonzalez
+
 #include <stdio.h>
 #include <ctype.h>
 
